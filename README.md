@@ -45,3 +45,5 @@ t.me/AI_Task_Manager_Bot
 - /document: Analyze a document with keywords (e.g., /document Sample document text. Keyword1; Keyword2; Keyword3)
 - /feedback: Provide feedback on AI decisions.
 - /upcoming_tasks: List upcoming tasks.
+
+# Credit by @CleverCoder
